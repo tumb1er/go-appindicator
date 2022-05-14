@@ -1,8 +1,8 @@
 package appindicator
 
-// #cgo pkg-config: ayatana-appindicator3-1
+// #cgo pkg-config: ayatana-appindicator3-0.1
 // #include <stdlib.h>
-// #include <libappindicator/app-indicator.h>
+// #include <libayatana-appindicator/app-indicator.h>
 import "C"
 import (
 	"github.com/gotk3/gotk3/glib"
