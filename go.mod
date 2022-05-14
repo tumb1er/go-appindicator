@@ -1,4 +1,4 @@
-module github.com/kamilsamaj/go-appindicator
+module github.com/tumb1er/go-appindicator
 
 go 1.14
 
