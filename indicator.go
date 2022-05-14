@@ -1,6 +1,6 @@
 package appindicator
 
-// #cgo pkg-config: appindicator3-0.1
+// #cgo pkg-config: ayatana-appindicator3-0.1
 // #include <stdlib.h>
 // #include <libappindicator/app-indicator.h>
 import "C"
